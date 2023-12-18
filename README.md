@@ -1,6 +1,6 @@
 - 👋 Olá meu nome é André Filipe
 - 👀 Sou professor da Rede Estadual de Educação do Paraná
-- 🌱 Leciono a disciplin de Geografia
+- 🌱 Leciono a disciplina de Geografia
 
 
 <!---
